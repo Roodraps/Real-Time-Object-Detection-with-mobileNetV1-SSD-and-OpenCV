@@ -7,16 +7,15 @@ This project aims to do real-time object detection through a laptop camera or we
 
 
 
-## Install all the necessary libraries. 
+## Install all the necessary libraries
 
-
-brew install opencv
-pip install opencv-python
-pip install opencv-contrib-python
-pip install opencv-python-headless
-pip install opencv-contrib-python-headless
-pip install matplotlib
-pip install imutils
+brew install opencv,
+pip install opencv-python,
+pip install opencv-contrib-python,
+pip install opencv-python-headless,
+pip install opencv-contrib-python-headless,
+pip install matplotlib,
+pip install imutils,
 
 
 Make sure to download and install opencv and and opencv-contrib releases for OpenCV 3.3. This ensures that the deep neural network (dnn) module is installed. You must have OpenCV 3.3 (or newer) to run this code.
