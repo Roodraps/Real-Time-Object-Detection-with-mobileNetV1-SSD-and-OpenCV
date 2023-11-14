@@ -1,4 +1,4 @@
-# Real-Time-Object-Detection-with-MobileNetV1(darknet19)-and-OpenCV
+# Real-Time-Object-Detection-with-MobileNetV1-and-OpenCV
 
 
 ### Introduction
